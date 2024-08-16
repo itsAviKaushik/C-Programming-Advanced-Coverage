@@ -1,4 +1,4 @@
-![C Programming](https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png)
+![C Programming](https://www.wifilearning.com/uploads/courses/33/1696428121_tDmgGJ9Viher3jDku2OBLEwifilearning33.jpg)
 
 # What is C?
 
