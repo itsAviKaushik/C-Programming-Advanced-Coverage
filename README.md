@@ -1,3 +1,5 @@
+![C Programming](https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png)
+
 # What is C?
 
 C is a general-purpose, procedural, low-level programming language used in the development of computer software and applications, system programming, games, and more.
