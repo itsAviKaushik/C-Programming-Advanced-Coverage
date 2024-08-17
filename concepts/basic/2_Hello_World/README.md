@@ -1,4 +1,4 @@
-Printing a `Hello World` on screen is one of the best program to get started with any programming language. It is a first step towards learning any programming language.
+Printing a `Hello World` on screen is one of the best program to get started with any programming language. It is a first step towards learning any programming language. There are multiple way to print the Hello World or any string in C. You can skip some of them to avoid confusion, in case you are a beginner.
 
 You can print the Hello World in C with the following ways:
 
