@@ -25,6 +25,13 @@ We use the following command in the terminal to compile our `hello_world.c` sour
 $ gcc hello_world.c -o hello_world
 ```
 
+Or use this below command to view the compilation process:
+
+```bash
+$ gcc -Wall -save-temps hello_world.c -o hello_world
+```
+
+
 You can pass various options to the GCC compiler to perform different tasks, such as:
 - The option **`-Wall`** enables all compiler warning messages. It's recommended to generate more optimized code.
 - The option **`-o`** specifies the output file name. Without this option, the compiler will generate an executable named `a.out`.
@@ -62,11 +69,11 @@ In this file:
 
 
 ### 2. Compiling
-The next step is to compile the preprocessed file (`hello_world.i`), which generates an intermediate output file in assembly language (`hello_world.s`). This file contains assembly-level instructions. You can view it using:
+The next step is to compile the preprocessed file (`hello_world.i`), which generates an intermediate output file in assembly language (`hello_world.s`). This file contains assembly-level instructions. You can view it in your file's directory:
 
 
 ### 3. Assembling
-The assembler converts the assembly code (`hello_world.s`) into an object file (`hello_world.o`). This object file contains machine-level instructions. At this point, external function calls (e.g., `printf()`) remain unresolved. View the object file using:
+The assembler converts the assembly code (`hello_world.s`) into an object file (`hello_world.o`). This object file contains machine-level instructions. At this point, external function calls (e.g., `printf()`) remain unresolved. You can view it in your file's directory
 
 
 ### 4. Linking
