@@ -60,7 +60,7 @@ This is the initial phase, where the source code is preprocessed to:
 - Include header files.
 - Handle conditional compilation.
 
-The preprocessed output is saved as `hello_world.i`. You can inspect it using the following command:
+The preprocessed output is saved as `hello_world.i`. You can view it in your file's directory
 
 In this file:
 - Macros like `add(a, b)` are expanded.
